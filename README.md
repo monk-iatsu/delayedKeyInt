@@ -6,4 +6,8 @@
 * `from delayedKeyInt import DelayedKeyboardInterrupt`
 * `with DelayedKeyboardInterrupt():`
 * `    do_stuff_then_raise()`
+* ```with DelayedKeyboardInterrupt():
+      do_then_rais()
+  ```
+  
 
