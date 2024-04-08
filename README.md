@@ -1,5 +1,5 @@
 # delayedKeyInt
-## a module to delay KeyboardInturrupt in python
+## A module to delay KeyboardInturrupt in Python
 ### Installation:
 `pip3 install delayedKeyInt`
 ### Usage:
